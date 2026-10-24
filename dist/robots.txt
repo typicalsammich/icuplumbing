@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plumbing-icu-reimagined.typical-sammich.chatgpt.site/sitemap.xml

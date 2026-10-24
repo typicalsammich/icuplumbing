@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Plumbing ICU favicon">
+  <defs>
+    <linearGradient id="icuBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E6BFF"/>
+      <stop offset="55%" stop-color="#0B4CC4"/>
+      <stop offset="100%" stop-color="#062B68"/>
+    </linearGradient>
+    <filter id="blueGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <title>Plumbing ICU Favicon</title>
+  <rect width="512" height="512" rx="96" fill="#071A33"/>
+  <text x="256" y="86" text-anchor="middle" font-family="Montserrat, Arial Black, Arial, sans-serif" font-size="50" font-weight="900" font-style="italic" letter-spacing="7" fill="#FFFFFF">PLUMBING</text>
+  <rect x="54" y="132" width="112" height="112" rx="24" fill="#C62026"/>
+  <rect x="99" y="154" width="22" height="68" rx="4" fill="#FFFFFF"/>
+  <rect x="76" y="177" width="68" height="22" rx="4" fill="#FFFFFF"/>
+  <text x="184" y="246" font-family="Montserrat, Arial Black, Arial, sans-serif" font-size="122" font-weight="900" font-style="italic" letter-spacing="-5" fill="url(#icuBlue)" stroke="#FFFFFF" stroke-width="2" paint-order="stroke fill">ICU</text>
+  <polyline points="62,332 146,332 173,304 207,378 247,254 290,332 452,332" fill="none" stroke="#1E6BFF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" filter="url(#blueGlow)"/>
+  <polyline points="62,332 146,332 173,304 207,378 247,254 290,332 452,332" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="256" y="434" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="31" font-weight="800" font-style="italic" letter-spacing="3" fill="#1E6BFF">INTENSIVE CARE</text>
+</svg>
